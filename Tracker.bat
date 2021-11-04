@@ -1,0 +1,1 @@
+python3 "C:\Users\melih\GitHub\python json tracker\main.py"

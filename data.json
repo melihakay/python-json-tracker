@@ -1,0 +1,737 @@
+{
+    "activity": {
+        "1": {
+            "active": "False",
+            "start_time": "2021-10-19 15:00:00",
+            "end_time": "2021-10-19 19:00:00",
+            "tags": [
+                "python",
+                "coding"
+            ],
+            "name": "Tracker Coding"
+        },
+        "2": {
+            "active": "False",
+            "start_time": "2021-10-18 18:00:00",
+            "end_time": "2021-10-18 22:00:00",
+            "tags": [
+                "python",
+                "coding"
+            ],
+            "name": "Tracker Coding"
+        },
+        "3": {
+            "active": "False",
+            "start_time": "2021-10-19 22:21:24",
+            "end_time": "2021-10-19 23:34:36",
+            "tags": [
+                "game"
+            ],
+            "name": "Elder Scrolls Online"
+        },
+        "4": {
+            "active": "False",
+            "start_time": "2021-10-20 14:32:11",
+            "end_time": "2021-10-20 15:38:26",
+            "tags": [
+                "bass",
+                "music"
+            ],
+            "name": "Bass Practice"
+        },
+        "5": {
+            "active": "False",
+            "start_time": "2021-10-21 14:28:23",
+            "end_time": "2021-10-21 16:01:46",
+            "tags": [
+                "game"
+            ],
+            "name": "Elder Scrolls Online"
+        },
+        "6": {
+            "active": "False",
+            "start_time": "2021-10-21 18:00:00",
+            "end_time": "2021-10-21 19:30:00",
+            "tags": [
+                "unproductive"
+            ],
+            "name": "Social Media"
+        },
+        "7": {
+            "active": "False",
+            "start_time": "2021-10-21 19:35:00",
+            "end_time": "2021-10-21 20:27:56",
+            "tags": [
+                "entertainment"
+            ],
+            "name": "Youtube"
+        },
+        "8": {
+            "active": "False",
+            "start_time": "2021-10-21 21:34:00",
+            "end_time": "2021-10-21 23:53:27",
+            "tags": [
+                "physics",
+                "metu"
+            ],
+            "name": "Egg Experiment Design"
+        },
+        "9": {
+            "active": "False",
+            "start_time": "2021-10-21 23:56:12",
+            "end_time": "2021-10-22 02:46:46",
+            "tags": [
+                "latex"
+            ],
+            "name": "LaTeX research & Experiment writing"
+        },
+        "10": {
+            "active": "False",
+            "start_time": "2021-10-22 09:30:00",
+            "end_time": "2021-10-22 10:15:00",
+            "tags": [
+                "unproductive"
+            ],
+            "name": "Social Media"
+        },
+        "11": {
+            "active": "False",
+            "start_time": "2021-10-22 10:20:00",
+            "end_time": "2021-10-22 11:01:12",
+            "tags": [
+                "entertainment"
+            ],
+            "name": "Youtube"
+        },
+        "12": {
+            "active": "False",
+            "start_time": "2021-10-22 11:14:19",
+            "end_time": "2021-10-22 11:56:11",
+            "tags": [
+                "game"
+            ],
+            "name": "Elder Scrolls Online"
+        },
+        "13": {
+            "active": "False",
+            "start_time": "2021-10-22 17:41:04",
+            "end_time": "2021-10-22 18:18:46",
+            "tags": [
+                "latex"
+            ],
+            "name": "LaTeX research & Experiment writing"
+        },
+        "14": {
+            "active": "False",
+            "start_time": "2021-10-22 18:35:17",
+            "end_time": "2021-10-22 19:08:27",
+            "tags": [
+                "physics",
+                "phys107",
+                "metu"
+            ],
+            "name": "Physics 107"
+        },
+        "15": {
+            "active": "False",
+            "start_time": "2021-10-23 22:48:33",
+            "end_time": "2021-10-24 01:23:07",
+            "tags": [
+                "game"
+            ],
+            "name": "Elder Scrolls Online"
+        },
+        "16": {
+            "active": "False",
+            "start_time": "2021-10-25 22:08:20",
+            "end_time": "2021-10-25 22:37:28",
+            "tags": [
+                "bass",
+                "music"
+            ],
+            "name": "Bass Study"
+        },
+        "17": {
+            "active": "False",
+            "start_time": "2021-10-25 23:02:48",
+            "end_time": "2021-10-26 00:02:41",
+            "tags": [
+                "english",
+                "metu"
+            ],
+            "name": "English Essay"
+        },
+        "18": {
+            "active": "False",
+            "start_time": "2021-10-26 11:03:02",
+            "end_time": "2021-10-26 11:54:24",
+            "tags": [
+                "bass",
+                "music"
+            ],
+            "name": "Bass Study"
+        },
+        "19": {
+            "active": "False",
+            "start_time": "2021-10-26 16:00:00",
+            "end_time": "2021-10-26 17:34:00",
+            "tags": [
+                "unproductive"
+            ],
+            "name": "Social Media"
+        },
+        "20": {
+            "active": "False",
+            "start_time": "2021-10-26 17:46:30",
+            "end_time": "2021-10-26 19:02:55",
+            "tags": [
+                "bass",
+                "music"
+            ],
+            "name": "Bass Study"
+        },
+        "21": {
+            "active": "False",
+            "start_time": "2021-10-27 14:20:00",
+            "end_time": "2021-10-27 15:45:35",
+            "tags": [
+                "python",
+                "api",
+                "research"
+            ],
+            "name": "Zepp API Research"
+        },
+        "22": {
+            "active": "False",
+            "start_time": "2021-10-27 21:00:00",
+            "end_time": "2021-10-27 23:12:21",
+            "tags": [
+                "bass",
+                "music"
+            ],
+            "name": "Bass Practice"
+        },
+        "23": {
+            "active": "False",
+            "start_time": "2021-10-27 23:00:00",
+            "end_time": "2021-10-28 01:00:00",
+            "tags": [
+                "physics",
+                "phys107",
+                "metu"
+            ],
+            "name": "Experiment Measurement"
+        },
+        "24": {
+            "active": "False",
+            "start_time": "2021-10-28 01:00:00",
+            "end_time": "2021-10-28 03:00:00",
+            "tags": [
+                "python",
+                "coding"
+            ],
+            "name": "Experiment Coding"
+        },
+        "25": {
+            "active": "False",
+            "start_time": "2021-10-28 19:10:17",
+            "end_time": "2021-10-28 19:18:14",
+            "tags": [
+                "physics",
+                "metu"
+            ],
+            "name": "Physics Study"
+        },
+        "26": {
+            "active": "False",
+            "start_time": "2021-10-28 19:21:51",
+            "end_time": "2021-10-28 20:01:03",
+            "tags": [
+                "physics",
+                "metu"
+            ],
+            "name": "Physics Study"
+        },
+        "27": {
+            "active": "False",
+            "start_time": "2021-10-29 14:45:32",
+            "end_time": "2021-10-29 15:21:13",
+            "tags": [
+                "physics",
+                "book"
+            ],
+            "name": "Feynman's Physics Lectures"
+        },
+        "28": {
+            "active": "False",
+            "start_time": "2021-10-29 21:36:00",
+            "end_time": "2021-10-29 22:45:28",
+            "tags": [
+                "physics",
+                "metu"
+            ],
+            "name": "PHYS109 Quiz & Homework"
+        },
+        "29": {
+            "active": "False",
+            "start_time": "2021-10-29 22:49:00",
+            "end_time": "2021-10-29 23:18:10",
+            "tags": [
+                "coding",
+                "tracker"
+            ],
+            "name": "Tracker Improvement"
+        },
+        "30": {
+            "active": "False",
+            "start_time": "2021-10-30 17:22:14",
+            "end_time": "2021-10-30 17:52:43",
+            "tags": [
+                "physics",
+                "metu"
+            ],
+            "name": "Physics Study"
+        },
+        "31": {
+            "active": "False",
+            "start_time": "2021-10-30 18:41:29",
+            "end_time": "2021-10-30 20:01:37",
+            "tags": [
+                "physics",
+                "metu"
+            ],
+            "name": "Physics Study"
+        },
+        "32": {
+            "active": "False",
+            "start_time": "2021-10-30 21:02:38",
+            "end_time": "2021-10-30 22:31:43",
+            "tags": [
+                "physics",
+                "metu",
+                "phys107"
+            ],
+            "name": "Experiment Report Design"
+        },
+        "33": {
+            "active": "False",
+            "start_time": "2021-10-31 00:29:38",
+            "end_time": "2021-10-31 02:38:43",
+            "tags": [
+                "physics",
+                "metu",
+                "phys107"
+            ],
+            "name": "Experiment Report Design"
+        },
+        "34": {
+            "active": "False",
+            "start_time": "2021-10-31 13:50:21",
+            "end_time": "2021-10-31 15:41:47",
+            "tags": [
+                "physics",
+                "metu",
+                "phys107"
+            ],
+            "name": "Experiment Report Writing"
+        },
+        "35": {
+            "active": "False",
+            "start_time": "2021-11-01 00:28:00",
+            "end_time": "2021-11-01 01:08:21",
+            "tags": [
+                "coding",
+                "python"
+            ],
+            "name": "Python Research"
+        },
+        "36": {
+            "active": "False",
+            "start_time": "2021-11-01 01:21:52",
+            "end_time": "2021-11-01 05:40:09",
+            "tags": [
+                "physics",
+                "metu",
+                "phys107"
+            ],
+            "name": "Experiment Report Writing"
+        },
+        "37": {
+            "active": "False",
+            "start_time": "2021-11-02 16:56:10",
+            "end_time": "2021-11-02 17:48:59",
+            "tags": [
+                "chemistery",
+                "metu"
+            ],
+            "name": "Chemistery Lab Study"
+        },
+        "38": {
+            "active": "False",
+            "start_time": "2021-11-02 21:07:54",
+            "end_time": "2021-11-02 22:12:26",
+            "tags": [
+                "physics",
+                "metu",
+                "society"
+            ],
+            "name": "METU Physics Society"
+        },
+        "39": {
+            "active": "False",
+            "start_time": "2021-11-03 17:10:22",
+            "end_time": "2021-11-03 17:29:02",
+            "tags": [
+                "english",
+                "metu"
+            ],
+            "name": "English Study"
+        },
+        "40": {
+            "active": "False",
+            "start_time": "2021-11-03 17:41:51",
+            "end_time": "2021-11-03 21:28:43",
+            "tags": [
+                "artificial intelligence",
+                "metu",
+                "society"
+            ],
+            "name": "YZT Info Session"
+        },
+        "41": {
+            "active": "False",
+            "start_time": "2021-11-04 12:01:03",
+            "end_time": "2021-11-04 12:42:40",
+            "tags": [
+                "artificial intelligence",
+                "machine learning",
+                "coursera"
+            ],
+            "name": "Neural Networks and Deep Learning"
+        }
+    },
+    "tag_cont_ids": {
+        "python": [
+            1,
+            2,
+            21,
+            24,
+            35
+        ],
+        "coding": [
+            1,
+            2,
+            24,
+            29,
+            35
+        ],
+        "game": [
+            3,
+            5,
+            12,
+            15
+        ],
+        "bass": [
+            4,
+            16,
+            18,
+            20,
+            22
+        ],
+        "music": [
+            4,
+            16,
+            18,
+            20,
+            22
+        ],
+        "unproductive": [
+            6,
+            10,
+            19
+        ],
+        "entertainment": [
+            7,
+            11
+        ],
+        "physics": [
+            8,
+            14,
+            23,
+            25,
+            26,
+            27,
+            28,
+            30,
+            31,
+            32,
+            33,
+            34,
+            36,
+            38
+        ],
+        "metu": [
+            8,
+            14,
+            17,
+            23,
+            25,
+            26,
+            28,
+            30,
+            31,
+            32,
+            33,
+            34,
+            36,
+            37,
+            38,
+            39,
+            40
+        ],
+        "latex": [
+            9,
+            13
+        ],
+        "phys107": [
+            14,
+            23,
+            32,
+            33,
+            34,
+            36
+        ],
+        "english": [
+            17,
+            39
+        ],
+        "api": [
+            21
+        ],
+        "research": [
+            21
+        ],
+        "book": [
+            27
+        ],
+        "tracker": [
+            29
+        ],
+        "chemistery": [
+            37
+        ],
+        "society": [
+            38,
+            40
+        ],
+        "artificial intelligence": [
+            40,
+            41
+        ],
+        "machine learning": [
+            41
+        ],
+        "coursera": [
+            41
+        ]
+    },
+    "name_cont_ids": {
+        "Tracker Coding": [
+            1,
+            2
+        ],
+        "Elder Scrolls Online": [
+            3,
+            5,
+            12,
+            15
+        ],
+        "Bass Practice": [
+            4,
+            22
+        ],
+        "Social Media": [
+            6,
+            10,
+            19
+        ],
+        "Youtube": [
+            7,
+            11
+        ],
+        "Egg Experiment Design": [
+            8
+        ],
+        "LaTeX research & Experiment writing": [
+            9,
+            13
+        ],
+        "Physics 107": [
+            14
+        ],
+        "Bass Study": [
+            16,
+            18,
+            20
+        ],
+        "English Essay": [
+            17
+        ],
+        "Zepp API Research": [
+            21
+        ],
+        "Experiment Measurement": [
+            23
+        ],
+        "Experiment Coding": [
+            24
+        ],
+        "Physics Study": [
+            25,
+            26,
+            30,
+            31
+        ],
+        "Feynman's Physics Lectures": [
+            27
+        ],
+        "PHYS109 Quiz & Homework": [
+            28
+        ],
+        "Tracker Improvement": [
+            29
+        ],
+        "Experiment Report Design": [
+            32,
+            33
+        ],
+        "Experiment Report Writing": [
+            34,
+            36
+        ],
+        "Python Research": [
+            35
+        ],
+        "Chemistery Lab Study": [
+            37
+        ],
+        "METU Physics Society": [
+            38
+        ],
+        "English Study": [
+            39
+        ],
+        "YZT Info Session": [
+            40
+        ],
+        "Neural Networks and Deep Learning": [
+            41
+        ]
+    },
+    "name_tag_list": {
+        "Tracker Coding": [
+            "python",
+            "coding"
+        ],
+        "Elder Scrolls Online": [
+            "game"
+        ],
+        "Bass Practice": [
+            "bass",
+            "music"
+        ],
+        "Social Media": [
+            "unproductive"
+        ],
+        "Youtube": [
+            "entertainment"
+        ],
+        "Egg Experiment Design": [
+            "physics",
+            "metu"
+        ],
+        "LaTeX research & Experiment writing": [
+            "latex"
+        ],
+        "Physics 107": [
+            "physics",
+            "phys107",
+            "metu"
+        ],
+        "Bass Study": [
+            "bass",
+            "music"
+        ],
+        "English Essay": [
+            "english",
+            "metu"
+        ],
+        "Zepp API Research": [
+            "python",
+            "api",
+            "research"
+        ],
+        "Experiment Measurement": [
+            "physics",
+            "phys107",
+            "metu"
+        ],
+        "Experiment Coding": [
+            "python",
+            "coding"
+        ],
+        "Physics Study": [
+            "physics",
+            "metu"
+        ],
+        "Feynman's Physics Lectures": [
+            "physics",
+            "book"
+        ],
+        "PHYS109 Quiz & Homework": [
+            "physics",
+            "metu"
+        ],
+        "Tracker Improvement": [
+            "coding",
+            "tracker"
+        ],
+        "Experiment Report Design": [
+            "physics",
+            "metu",
+            "phys107"
+        ],
+        "Experiment Report Writing": [
+            "physics",
+            "metu",
+            "phys107"
+        ],
+        "Python Research": [
+            "coding",
+            "python"
+        ],
+        "Chemistery Lab Study": [
+            "chemistery",
+            "metu"
+        ],
+        "METU Physics Society": [
+            "physics",
+            "metu",
+            "society"
+        ],
+        "English Study": [
+            "english",
+            "metu"
+        ],
+        "YZT Info Session": [
+            "artificial intelligence",
+            "metu",
+            "society"
+        ],
+        "Neural Networks and Deep Learning": [
+            "artificial intelligence",
+            "machine learning",
+            "coursera"
+        ]
+    }
+}
