@@ -408,6 +408,183 @@
                 "coursera"
             ],
             "name": "Neural Networks and Deep Learning"
+        },
+        "42": {
+            "active": "False",
+            "start_time": "2021-11-04 14:28:35",
+            "end_time": "2021-11-04 14:46:20",
+            "tags": [
+                "data science",
+                "python",
+                "jupyter"
+            ],
+            "name": "dataquest.io"
+        },
+        "43": {
+            "active": "False",
+            "start_time": "2021-11-05 13:17:25",
+            "end_time": "2021-11-05 13:55:50",
+            "tags": [
+                "data science",
+                "python",
+                "jupyter"
+            ],
+            "name": "dataquest.io"
+        },
+        "44": {
+            "active": "False",
+            "start_time": "2021-11-05 18:10:57",
+            "end_time": "2021-11-05 20:32:33",
+            "tags": [
+                "data science",
+                "python",
+                "jupyter"
+            ],
+            "name": "dataquest.io"
+        },
+        "45": {
+            "active": "False",
+            "start_time": "2021-11-05 21:14:12",
+            "end_time": "2021-11-05 23:46:18",
+            "tags": [
+                "physics",
+                "metu",
+                "phys107"
+            ],
+            "name": "Experiment Pre-Report"
+        },
+        "46": {
+            "active": "False",
+            "start_time": "2021-11-06 00:46:00",
+            "end_time": "2021-11-06 01:13:41",
+            "tags": [
+                "python",
+                "coding"
+            ],
+            "name": "Experiment Coding"
+        },
+        "47": {
+            "active": "False",
+            "start_time": "2021-11-06 14:32:51",
+            "end_time": "2021-11-06 17:32:51",
+            "tags": [
+                "physics",
+                "metu"
+            ],
+            "name": "Physics Study"
+        },
+        "48": {
+            "active": "False",
+            "start_time": "2021-11-07 17:35:21",
+            "end_time": "2021-11-07 18:35:38",
+            "tags": [
+                "physics",
+                "metu"
+            ],
+            "name": "Physics Study"
+        },
+        "49": {
+            "active": "False",
+            "start_time": "2021-11-07 22:18:00",
+            "end_time": "2021-11-07 23:01:59",
+            "tags": [
+                "physics",
+                "metu"
+            ],
+            "name": "Physics Study"
+        },
+        "50": {
+            "active": "False",
+            "start_time": "2021-11-07 23:19:28",
+            "end_time": "2021-11-08 00:01:02",
+            "tags": [
+                "matlab",
+                "coding"
+            ],
+            "name": "MATLAB Study"
+        },
+        "51": {
+            "active": "False",
+            "start_time": "2021-11-08 12:22:48",
+            "end_time": "2021-11-08 12:42:19",
+            "tags": [
+                "chemistery",
+                "metu"
+            ],
+            "name": "Chemistery Study"
+        },
+        "52": {
+            "active": "False",
+            "start_time": "2021-11-08 15:54:16",
+            "end_time": "2021-11-08 17:53:44",
+            "tags": [
+                "data science",
+                "python",
+                "jupyter"
+            ],
+            "name": "dataquest.io"
+        },
+        "53": {
+            "active": "False",
+            "start_time": "2021-11-08 19:57:23",
+            "end_time": "2021-11-08 21:15:22",
+            "tags": [
+                "physics",
+                "metu"
+            ],
+            "name": "Physics Study"
+        },
+        "54": {
+            "active": "False",
+            "start_time": "2021-11-08 21:50:14",
+            "end_time": "2021-11-08 23:21:29",
+            "tags": [
+                "mathematics",
+                "metu"
+            ],
+            "name": "Mathematics Study"
+        },
+        "55": {
+            "active": "False",
+            "start_time": "2021-11-09 18:20:14",
+            "end_time": "2021-11-09 21:21:29",
+            "tags": [
+                "bass",
+                "music"
+            ],
+            "name": "Bass Practice"
+        },
+        "56": {
+            "active": "False",
+            "start_time": "2021-11-10 12:58:38",
+            "end_time": "2021-11-10 14:02:01",
+            "tags": [
+                "data science",
+                "python",
+                "jupyter"
+            ],
+            "name": "dataquest.io"
+        },
+        "57": {
+            "active": "False",
+            "start_time": "2021-11-10 14:14:42",
+            "end_time": "2021-11-10 14:37:20",
+            "tags": [
+                "bass",
+                "music"
+            ],
+            "name": "Bass Practice"
+        },
+        "58": {
+            "active": "False",
+            "start_time": "2021-11-10 14:38:14",
+            "end_time": "2021-11-10 15:34:40",
+            "tags": [
+                "data science",
+                "python",
+                "jupyter"
+            ],
+            "name": "dataquest.io"
         }
     },
     "tag_cont_ids": {
@@ -416,14 +593,23 @@
             2,
             21,
             24,
-            35
+            35,
+            42,
+            43,
+            44,
+            46,
+            52,
+            56,
+            58
         ],
         "coding": [
             1,
             2,
             24,
             29,
-            35
+            35,
+            46,
+            50
         ],
         "game": [
             3,
@@ -436,14 +622,18 @@
             16,
             18,
             20,
-            22
+            22,
+            55,
+            57
         ],
         "music": [
             4,
             16,
             18,
             20,
-            22
+            22,
+            55,
+            57
         ],
         "unproductive": [
             6,
@@ -468,7 +658,12 @@
             33,
             34,
             36,
-            38
+            38,
+            45,
+            47,
+            48,
+            49,
+            53
         ],
         "metu": [
             8,
@@ -487,7 +682,14 @@
             37,
             38,
             39,
-            40
+            40,
+            45,
+            47,
+            48,
+            49,
+            51,
+            53,
+            54
         ],
         "latex": [
             9,
@@ -499,7 +701,8 @@
             32,
             33,
             34,
-            36
+            36,
+            45
         ],
         "english": [
             17,
@@ -518,7 +721,8 @@
             29
         ],
         "chemistery": [
-            37
+            37,
+            51
         ],
         "society": [
             38,
@@ -533,6 +737,28 @@
         ],
         "coursera": [
             41
+        ],
+        "data science": [
+            42,
+            43,
+            44,
+            52,
+            56,
+            58
+        ],
+        "jupyter": [
+            42,
+            43,
+            44,
+            52,
+            56,
+            58
+        ],
+        "matlab": [
+            50
+        ],
+        "mathematics": [
+            54
         ]
     },
     "name_cont_ids": {
@@ -548,7 +774,9 @@
         ],
         "Bass Practice": [
             4,
-            22
+            22,
+            55,
+            57
         ],
         "Social Media": [
             6,
@@ -584,13 +812,18 @@
             23
         ],
         "Experiment Coding": [
-            24
+            24,
+            46
         ],
         "Physics Study": [
             25,
             26,
             30,
-            31
+            31,
+            47,
+            48,
+            49,
+            53
         ],
         "Feynman's Physics Lectures": [
             27
@@ -626,6 +859,26 @@
         ],
         "Neural Networks and Deep Learning": [
             41
+        ],
+        "dataquest.io": [
+            42,
+            43,
+            44,
+            52,
+            56,
+            58
+        ],
+        "Experiment Pre-Report": [
+            45
+        ],
+        "MATLAB Study": [
+            50
+        ],
+        "Chemistery Study": [
+            51
+        ],
+        "Mathematics Study": [
+            54
         ]
     },
     "name_tag_list": {
@@ -732,6 +985,28 @@
             "artificial intelligence",
             "machine learning",
             "coursera"
+        ],
+        "dataquest.io": [
+            "data science",
+            "python",
+            "jupyter"
+        ],
+        "Experiment Pre-Report": [
+            "physics",
+            "metu",
+            "phys107"
+        ],
+        "MATLAB Study": [
+            "matlab",
+            "coding"
+        ],
+        "Chemistery Study": [
+            "chemistery",
+            "metu"
+        ],
+        "Mathematics Study": [
+            "mathematics",
+            "metu"
         ]
     }
 }

@@ -58,7 +58,7 @@ def update(p=False):
 def get_tag():
     tags = []
     while True:
-        m = input("Getting tasks each at a time:    ")
+        m = input("Getting tags each at a time:    ")
         if m == "":
             return tags
         else:
@@ -79,9 +79,11 @@ def list():
         start_time = data["activity"][i]["start_time"]
         end_time = data["activity"][i]["end_time"]
         dr = duration(start_time,end_time)
-        f_list.append([i, activness,name, tags, start_time, end_time, dr[2], dr[1], dr[0]])
+        f_list.append([i, activness,name, tags[0],dr[2], dr[1], dr[0]])
         #print("ID = {}, Name = {}, Tags = {}, Duration = {}H {}M {}S".format(i, name, tags, dr[2], dr[1], dr[0]))
-    print(tabulate(f_list, headers= ["ID", "A", "Name", "Tags","Start", "End", "Hours", "Minutes", "Seconds"]))
+    print(tabulate(f_list, headers= ["ID", "A", "Name", "Main Tag", "Hours", "Minutes", "Seconds"]))
+
+
     if tag_cont_ids == {}:
         print("Empty")
 def get_time(mes="Get"):
