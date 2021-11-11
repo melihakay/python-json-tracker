@@ -585,6 +585,16 @@
                 "jupyter"
             ],
             "name": "dataquest.io"
+        },
+        "59": {
+            "active": "False",
+            "start_time": "2021-11-11 00:13:53",
+            "end_time": "2021-11-11 01:24:34",
+            "tags": [
+                "english",
+                "metu"
+            ],
+            "name": "English Presentation Prepare"
         }
     },
     "tag_cont_ids": {
@@ -689,7 +699,8 @@
             49,
             51,
             53,
-            54
+            54,
+            59
         ],
         "latex": [
             9,
@@ -706,7 +717,8 @@
         ],
         "english": [
             17,
-            39
+            39,
+            59
         ],
         "api": [
             21
@@ -879,6 +891,9 @@
         ],
         "Mathematics Study": [
             54
+        ],
+        "English Presentation Prepare": [
+            59
         ]
     },
     "name_tag_list": {
@@ -1006,6 +1021,10 @@
         ],
         "Mathematics Study": [
             "mathematics",
+            "metu"
+        ],
+        "English Presentation Prepare": [
+            "english",
             "metu"
         ]
     }
