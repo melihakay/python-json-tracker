@@ -595,6 +595,26 @@
                 "metu"
             ],
             "name": "English Presentation Prepare"
+        },
+        "60": {
+            "active": "False",
+            "start_time": "2021-11-11 20:17:36",
+            "end_time": "2021-11-11 21:20:48",
+            "tags": [
+                "mathematics",
+                "metu"
+            ],
+            "name": "Mathematics Study"
+        },
+        "61": {
+            "active": "False",
+            "start_time": "2021-11-11 21:36:36",
+            "end_time": "2021-11-11 21:56:33",
+            "tags": [
+                "mathematics",
+                "metu"
+            ],
+            "name": "Mathematics Study"
         }
     },
     "tag_cont_ids": {
@@ -700,7 +720,9 @@
             51,
             53,
             54,
-            59
+            59,
+            60,
+            61
         ],
         "latex": [
             9,
@@ -770,7 +792,9 @@
             50
         ],
         "mathematics": [
-            54
+            54,
+            60,
+            61
         ]
     },
     "name_cont_ids": {
@@ -890,7 +914,9 @@
             51
         ],
         "Mathematics Study": [
-            54
+            54,
+            60,
+            61
         ],
         "English Presentation Prepare": [
             59
