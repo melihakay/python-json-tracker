@@ -918,6 +918,56 @@
                 "metu"
             ],
             "name": "Physics Study"
+        },
+        "92": {
+            "active": "False",
+            "start_time": "2021-12-11 12:17:15",
+            "end_time": "2021-12-11 13:54:50",
+            "tags": [
+                "mathematics",
+                "metu"
+            ],
+            "name": "Mathematics Study"
+        },
+        "93": {
+            "active": "False",
+            "start_time": "2021-12-11 14:39:04",
+            "end_time": "2021-12-11 16:14:47",
+            "tags": [
+                "mathematics",
+                "metu"
+            ],
+            "name": "Mathematics Study"
+        },
+        "94": {
+            "active": "False",
+            "start_time": "2021-12-11 16:43:04",
+            "end_time": "2021-12-11 17:51:40",
+            "tags": [
+                "mathematics",
+                "metu"
+            ],
+            "name": "Mathematics Study"
+        },
+        "95": {
+            "active": "False",
+            "start_time": "2021-12-11 18:52:07",
+            "end_time": "2021-12-11 20:36:55",
+            "tags": [
+                "mathematics",
+                "metu"
+            ],
+            "name": "Mathematics Study"
+        },
+        "96": {
+            "active": "False",
+            "start_time": "2021-12-11 21:10:01",
+            "end_time": "2021-12-11 21:33:45",
+            "tags": [
+                "mathematics",
+                "metu"
+            ],
+            "name": "Mathematics Study"
         }
     },
     "tag_cont_ids": {
@@ -1082,7 +1132,12 @@
             88,
             89,
             90,
-            91
+            91,
+            92,
+            93,
+            94,
+            95,
+            96
         ],
         "latex": [
             9,
@@ -1160,7 +1215,12 @@
         "mathematics": [
             54,
             60,
-            61
+            61,
+            92,
+            93,
+            94,
+            95,
+            96
         ]
     },
     "name_cont_ids": {
@@ -1312,7 +1372,12 @@
         "Mathematics Study": [
             54,
             60,
-            61
+            61,
+            92,
+            93,
+            94,
+            95,
+            96
         ],
         "English Presentation Prepare": [
             59
