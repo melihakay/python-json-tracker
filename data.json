@@ -628,9 +628,291 @@
             "name": "Experiment Report Writing"
         },
         "63": {
-            "active": "True",
+            "active": "False",
             "start_time": "2021-11-18 16:32:35",
-            "end_time": "2021-11-18 16:32:35",
+            "end_time": "2021-11-18 17:47:02",
+            "tags": [
+                "physics",
+                "metu"
+            ],
+            "name": "Physics Study"
+        },
+        "64": {
+            "active": "False",
+            "start_time": "2021-11-18 23:35:04",
+            "end_time": "2021-11-19 01:01:16",
+            "tags": [
+                "physics",
+                "metu"
+            ],
+            "name": "Physics Study"
+        },
+        "65": {
+            "active": "False",
+            "start_time": "2021-11-17 23:11:44",
+            "end_time": "2021-11-18 03:13:55",
+            "tags": [
+                "bass",
+                "music"
+            ],
+            "name": "Bass Practice"
+        },
+        "66": {
+            "active": "False",
+            "start_time": "2021-11-19 18:02:07",
+            "end_time": "2021-11-19 18:54:06",
+            "tags": [
+                "physics",
+                "metu"
+            ],
+            "name": "Physics Study"
+        },
+        "67": {
+            "active": "False",
+            "start_time": "2021-11-19 21:07:22",
+            "end_time": "2021-11-19 22:06:08",
+            "tags": [
+                "physics",
+                "metu"
+            ],
+            "name": "Physics Study"
+        },
+        "68": {
+            "active": "False",
+            "start_time": "2021-11-19 22:10:58",
+            "end_time": "2021-11-19 22:59:16",
+            "tags": [
+                "data science",
+                "python",
+                "jupyter"
+            ],
+            "name": "dataquest.io"
+        },
+        "69": {
+            "active": "False",
+            "start_time": "2021-11-19 23:24:53",
+            "end_time": "2021-11-19 23:43:17",
+            "tags": [
+                "physics",
+                "metu"
+            ],
+            "name": "Physics Study"
+        },
+        "70": {
+            "active": "False",
+            "start_time": "2021-11-19 23:43:25",
+            "end_time": "2021-11-20 02:10:00",
+            "tags": [
+                "physics",
+                "metu",
+                "phys107"
+            ],
+            "name": "Experiment Pre-Report"
+        },
+        "71": {
+            "active": "False",
+            "start_time": "2021-11-20 14:39:11",
+            "end_time": "2021-11-20 15:34:26",
+            "tags": [
+                "physics",
+                "metu"
+            ],
+            "name": "Physics Study"
+        },
+        "72": {
+            "active": "False",
+            "start_time": "2021-11-20 16:23:25",
+            "end_time": "2021-11-20 16:56:02",
+            "tags": [
+                "physics",
+                "metu"
+            ],
+            "name": "Physics Study"
+        },
+        "73": {
+            "active": "False",
+            "start_time": "2021-11-20 17:21:48",
+            "end_time": "2021-11-20 18:39:34",
+            "tags": [
+                "physics",
+                "metu"
+            ],
+            "name": "Physics Study"
+        },
+        "74": {
+            "active": "False",
+            "start_time": "2021-11-20 19:34:26",
+            "end_time": "2021-11-20 20:36:26",
+            "tags": [
+                "physics",
+                "metu"
+            ],
+            "name": "Physics Study"
+        },
+        "75": {
+            "active": "False",
+            "start_time": "2021-11-20 21:57:43",
+            "end_time": "2021-11-20 23:06:25",
+            "tags": [
+                "physics",
+                "metu"
+            ],
+            "name": "Physics Study"
+        },
+        "76": {
+            "active": "False",
+            "start_time": "2021-11-21 00:00:34",
+            "end_time": "2021-11-21 01:00:09",
+            "tags": [
+                "physics",
+                "metu"
+            ],
+            "name": "Physics Study"
+        },
+        "77": {
+            "active": "False",
+            "start_time": "2021-11-21 10:31:32",
+            "end_time": "2021-11-21 10:57:38",
+            "tags": [
+                "physics",
+                "metu"
+            ],
+            "name": "Physics Study"
+        },
+        "78": {
+            "active": "False",
+            "start_time": "2021-11-21 12:04:47",
+            "end_time": "2021-11-21 15:49:10",
+            "tags": [
+                "physics",
+                "metu"
+            ],
+            "name": "Physics Study"
+        },
+        "79": {
+            "active": "False",
+            "start_time": "2021-11-25 11:35:03",
+            "end_time": "2021-11-25 12:29:18",
+            "tags": [
+                "english",
+                "metu"
+            ],
+            "name": "English Study"
+        },
+        "80": {
+            "active": "False",
+            "start_time": "2021-11-27 13:37:04",
+            "end_time": "2021-11-27 14:29:24",
+            "tags": [
+                "chemistery",
+                "metu"
+            ],
+            "name": "Chemistery Study"
+        },
+        "81": {
+            "active": "False",
+            "start_time": "2021-12-01 17:56:10",
+            "end_time": "2021-12-01 19:03:42",
+            "tags": [
+                "physics",
+                "metu"
+            ],
+            "name": "Physics Study"
+        },
+        "82": {
+            "active": "False",
+            "start_time": "2021-12-02 17:45:18",
+            "end_time": "2021-12-02 18:18:37",
+            "tags": [
+                "physics",
+                "metu"
+            ],
+            "name": "Physics Study"
+        },
+        "83": {
+            "active": "False",
+            "start_time": "2021-12-02 19:38:18",
+            "end_time": "2021-12-02 23:59:11",
+            "tags": [
+                "physics",
+                "metu"
+            ],
+            "name": "Physics Study"
+        },
+        "84": {
+            "active": "False",
+            "start_time": "2021-12-08 11:35:29",
+            "end_time": "2021-12-08 12:05:09",
+            "tags": [
+                "physics",
+                "metu"
+            ],
+            "name": "Physics Study"
+        },
+        "85": {
+            "active": "False",
+            "start_time": "2021-12-08 13:22:07",
+            "end_time": "2021-12-08 14:04:19",
+            "tags": [
+                "physics",
+                "metu"
+            ],
+            "name": "Physics Study"
+        },
+        "86": {
+            "active": "False",
+            "start_time": "2021-12-08 18:27:51",
+            "end_time": "2021-12-08 19:02:00",
+            "tags": [
+                "physics",
+                "metu"
+            ],
+            "name": "Physics Study"
+        },
+        "87": {
+            "active": "False",
+            "start_time": "2021-12-09 11:38:45",
+            "end_time": "2021-12-09 13:03:24",
+            "tags": [
+                "physics",
+                "metu"
+            ],
+            "name": "Physics Study"
+        },
+        "88": {
+            "active": "False",
+            "start_time": "2021-12-09 13:35:45",
+            "end_time": "2021-12-09 13:56:30",
+            "tags": [
+                "physics",
+                "metu"
+            ],
+            "name": "Physics Study"
+        },
+        "89": {
+            "active": "False",
+            "start_time": "2021-12-10 12:55:53",
+            "end_time": "2021-12-10 13:19:52",
+            "tags": [
+                "physics",
+                "metu"
+            ],
+            "name": "Physics Study"
+        },
+        "90": {
+            "active": "False",
+            "start_time": "2021-12-10 14:07:22",
+            "end_time": "2021-12-10 15:51:48",
+            "tags": [
+                "physics",
+                "metu"
+            ],
+            "name": "Physics Study"
+        },
+        "91": {
+            "active": "False",
+            "start_time": "2021-12-10 19:11:27",
+            "end_time": "2021-12-10 19:25:35",
             "tags": [
                 "physics",
                 "metu"
@@ -651,7 +933,8 @@
             46,
             52,
             56,
-            58
+            58,
+            68
         ],
         "coding": [
             1,
@@ -675,7 +958,8 @@
             20,
             22,
             55,
-            57
+            57,
+            65
         ],
         "music": [
             4,
@@ -684,7 +968,8 @@
             20,
             22,
             55,
-            57
+            57,
+            65
         ],
         "unproductive": [
             6,
@@ -716,7 +1001,31 @@
             49,
             53,
             62,
-            63
+            63,
+            64,
+            66,
+            67,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91
         ],
         "metu": [
             8,
@@ -747,7 +1056,33 @@
             60,
             61,
             62,
-            63
+            63,
+            64,
+            66,
+            67,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91
         ],
         "latex": [
             9,
@@ -761,12 +1096,14 @@
             34,
             36,
             45,
-            62
+            62,
+            70
         ],
         "english": [
             17,
             39,
-            59
+            59,
+            79
         ],
         "api": [
             21
@@ -782,7 +1119,8 @@
         ],
         "chemistery": [
             37,
-            51
+            51,
+            80
         ],
         "society": [
             38,
@@ -804,7 +1142,8 @@
             44,
             52,
             56,
-            58
+            58,
+            68
         ],
         "jupyter": [
             42,
@@ -812,7 +1151,8 @@
             44,
             52,
             56,
-            58
+            58,
+            68
         ],
         "matlab": [
             50
@@ -838,7 +1178,8 @@
             4,
             22,
             55,
-            57
+            57,
+            65
         ],
         "Social Media": [
             6,
@@ -886,7 +1227,30 @@
             48,
             49,
             53,
-            63
+            63,
+            64,
+            66,
+            67,
+            69,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91
         ],
         "Feynman's Physics Lectures": [
             27
@@ -916,7 +1280,8 @@
             38
         ],
         "English Study": [
-            39
+            39,
+            79
         ],
         "YZT Info Session": [
             40
@@ -930,16 +1295,19 @@
             44,
             52,
             56,
-            58
+            58,
+            68
         ],
         "Experiment Pre-Report": [
-            45
+            45,
+            70
         ],
         "MATLAB Study": [
             50
         ],
         "Chemistery Study": [
-            51
+            51,
+            80
         ],
         "Mathematics Study": [
             54,
